@@ -1,0 +1,39 @@
+<title>MWD - ^^^MWD^^^TITLE^^^MWD^^^</title>
+
+<style>
+    .nav {
+        background-color: red;
+    }
+</style>
+
+<style>
+    .nav {
+        background-color: orange;
+    }
+</style>
+
+<style>
+    .nav {
+        background-color: yellow;
+    }
+</style>
+
+<body>
+    <div class="nav">
+        <ul>
+            <li>
+                One
+            </li>
+
+            <li>
+                Two
+            </li>
+        </ul>
+    </div>
+
+    <style>
+        .nav {
+            background-color: pink;
+        }
+    </style>
+</body>
